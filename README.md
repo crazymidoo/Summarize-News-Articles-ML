@@ -11,11 +11,17 @@ Un progetto di **Machine Learning e NLP** che permette di:
 
 ## Requisiti
 
-Assicurati di avere **Python 3.8+** installato.
+- Assicurati di avere **Python 3.8+** installato.
+- Un computer
+---
+## Come avviare
 Fai il download della cartella zip ed estrai tutto.
 
 Installa le librerie necessarie:
 ```bash
 pip install newspaper3k textblob nltk
 ```
-
+Avvia l'applicazione
+```bash
+python main.py
+```
