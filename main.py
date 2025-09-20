@@ -2,7 +2,7 @@ import tkinter as tk
 import nltk
 from textblob import TextBlob
 from newspaper import Article
-
+  
 # Creiamo una funzione per il bottone Summarize
 def summarize():
     
