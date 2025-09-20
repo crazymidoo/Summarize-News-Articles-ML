@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as tk  
 import nltk
 from textblob import TextBlob
 from newspaper import Article
