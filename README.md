@@ -17,7 +17,7 @@ Un progetto di **Machine Learning e NLP** che permette di:
 ## Come avviare
 Fai il download della cartella zip ed estrai tutto.
 
-Installa le librerie necessarie:
+Installa le librerie necessarie:  
 ```bash
 pip install newspaper3k textblob nltk
 ```
