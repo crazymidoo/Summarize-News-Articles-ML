@@ -9,7 +9,7 @@ Un progetto di **Machine Learning e NLP** che permette di:
 
 ---
 
-## Requisiti
+## Requisiti 
 
 - Assicurati di avere **Python 3.8+** installato.
 - Un computer
