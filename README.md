@@ -1,4 +1,4 @@
-# News Summarizer   
+# News Summarizer  
  
 Un progetto di **Machine Learning e NLP** che permette di:
 - Scaricare un articolo da un URL
