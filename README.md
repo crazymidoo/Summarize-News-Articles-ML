@@ -14,7 +14,7 @@ Un progetto di **Machine Learning e NLP** che permette di:
 - Assicurati di avere **Python 3.8+** installato.
 - Un computer
 ---
-## Come avviare
+## Come avviare 
 Fai il download della cartella zip ed estrai tutto.
 
 Installa le librerie necessarie:  
