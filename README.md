@@ -1,5 +1,5 @@
 # News Summarizer  
- 
+
 Un progetto di **Machine Learning e NLP** che permette di:
 - Scaricare un articolo da un URL
 - Estrarre **titolo, autore e data di pubblicazione**
